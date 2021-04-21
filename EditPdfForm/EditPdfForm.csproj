@@ -12,7 +12,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     <PackageReference Include="PdfSharp" Version="1.50.5147" />
     <PackageReference Include="sautinsoft.document" Version="4.3.3.5" />
-    <PackageReference Include="System.Text.Encodings.Web" Version="4.7.0" />
+    <PackageReference Include="System.Text.Encodings.Web" Version="4.7.2" />
   </ItemGroup>
 
 </Project>
